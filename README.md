@@ -1,9 +1,8 @@
 # TechHub
-
 Objective: Develop a tech-focused blog platform that fosters a learning environment and community interaction for developers.
 
-Homepage:
 
+### Homepage:
 Upon visiting the site, users are greeted with the homepage, showcasing a comprehensive list of all tech-related blog posts.
 The navigation menu offers links to different sections of the website.
 User Authentication:
@@ -27,6 +26,8 @@ User Session Management:
 
 To conclude their session, users can log out by selecting the "Log Out" option.
 For security purposes, if a user remains inactive for 10 minutes, they will need to log in again to perform actions such as adding, updating, or deleting content.
+
+
 ## Technology
     - HTML
     - CSS
@@ -37,6 +38,7 @@ For security purposes, if a user remains inactive for 10 minutes, they will need
     - Node.js
     - MySQL/Sequelize
     - Heroku
+
 
 ## Visual Examples
 
