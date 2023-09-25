@@ -31,7 +31,6 @@ For security purposes, if a user remains inactive for 10 minutes, they will need
     - HTML
     - CSS
     - JavaScript
-    - Bulma
     - Handlebars
     - jQuery
     - Express
