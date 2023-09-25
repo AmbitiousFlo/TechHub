@@ -44,6 +44,6 @@ For security purposes, if a user remains inactive for 10 minutes, they will need
 
 ## Deployed Application (Heroku)
 
-[Deployed Application on Heroku](https://a-down-tech-blog-b6cbf85bb984.herokuapp.com/)
+
 
 
