@@ -27,7 +27,7 @@ User Session Management:
 
 To conclude their session, users can log out by selecting the "Log Out" option.
 For security purposes, if a user remains inactive for 10 minutes, they will need to log in again to perform actions such as adding, updating, or deleting content.
-## Tech Stack
+## Technology
     - HTML
     - CSS
     - JavaScript
